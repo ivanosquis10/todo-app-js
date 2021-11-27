@@ -1,14 +1,17 @@
-# Webpack Starter 
+# Todo App
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este es el proyecto de Todo App de JavaScript
 
 ### Notas:
+
 Recuerden reconstruir los modulos de Node.
+
 ```
 npm install
 ```
 
-Y para construir el build, recuerden: 
+Y para construir el build, recuerden:
+
 ```
 npm run build
 ```
